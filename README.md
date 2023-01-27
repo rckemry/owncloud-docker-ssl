@@ -18,5 +18,6 @@ Linux: Install the Docker Engine and Docker Compose according to your OS specifi
 
 Tips:
 Set up port forwarding on your router for 8080, 80, and 443.
-Ensure your firewall is not block these ports as well.
-I simply registerd my somin using my routers dynamic DNS feature.
+Ensure your firewall is not blocking these ports as well.
+I simply registerd my domin using my routers dynamic DNS feature.
+I also set this up with a domain purchased from google. Simply add A records to DNS that point your domain to the IP of you host.
